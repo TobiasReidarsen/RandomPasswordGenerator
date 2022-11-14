@@ -1,9 +1,6 @@
-﻿namespace RandomPasswordGenerator
+namespace RandomPasswordGenerator;
+
+public class PasswordGenerator
 {
-    internal class PasswordGenerator
-    {
-        private readonly string Password;
-
-
-    }
+    
 }
